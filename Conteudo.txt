@@ -1,0 +1,31 @@
+Projeto 5G-SafePlus
+
+->Resumo:
+
+	Este projeto, financiado pela União Europeia, tem como principal objetivo a melhoria, em termos de segurança, de toda a estrutura rodoviária e consequentemente dos seus utilizadores.
+	Para alcançar esta meta foi planeada a conexão entre veículos e toda uma infraestrutura que, em tempo real, providencia informações úteis ao tráfego como condições meteorológicas e avisos sobre a ocorrência de incidentes. É também capaz de alertar os serviços de segurança para as últimas.
+	Toda esta rede existirá tanto em infra-estruturas de comunicações já existentes como na rede 5G ou 4G, mais viáveis economicamente, como também nos serviços de satélites e outras soluções de comunicação para zonas mais remotas. 
+	Para conseguir dar vida ao projeto e permitir que as informações sejam transmitidas de forma quase instantânea é necessário ter ajuda dos meios locais para notificar quando há, por exemplo, nevoeiro.
+	Nesta implementação imperam a capacidade de expansão e viabilidade financeira uma vez que o mundo dá um passo para o 5G e seria importante para o futuro incluir este projeto nos planos caso seja visto como algo exequível. 
+	É fundamental, no entanto, notar que os dados recolhidos são de natureza sensível e que a rede implementada tem de assegurar a sua proteção.
+
+->Contextualização:
+
+.Situação Europeia Atual:
+
+	A União Europeia apresenta bons números referentes ao grau de mortalidade em acidentes rodoviários quando comparada com outros países [1]. No entanto, foi estabelecida uma meta para se atinigir 0 para mortes nas estradas. "Vision Zero" 
+	Esta meta é suportada por um diverso número de iniciativas e todo um plano de ação para o atingir [2]. Entra também neste plano o projeto que etamos a apresentar.
+	Os dados recolhidos nos sinistros registados nos anos de 2020/2021 sugerem que a maior parte dos incidentes que resultam em mortos acontecem em estradas rurais (53%) seguindo-se as estradas urbanas (38%) e só então as autoestradas (9%) [1].
+	Esta perfilação sugere um peso elevado de trânsito pedonal envolvido em acidentes mortais mas no entanto esta modalidade de transporte representa "apenas" 20,7% dos afetados [1].  
+	Sendo assim, os carros são os mais envolvidos com uma taxa de envolvimento de 44.6% sendo também notável o envolvimento das motorizadas que têm um peso de 25.9% na estatística.
+	Temos então, com recurso a esta estatística os dados que nos orientam na direção que de deve tomar para permitir um número de casualidades mais baixo.
+
+->+ Acerca do Projeto
+
+.Viabilidade do Projeto 5G-SafePlus:
+	
+	Inferindo que metade dos acidentes em estradas rurais ocorrrem em zonas habitacionais temos que sensivelmente 73% dos acidentes acontenceram no raio de alcance da rede telefónica. A existẽncia de uma rede prévia representa um declínio de custos abismal. Não é de todo uma solução cara de implementar uma vez que   
+
+Referências:
+   [1]https://www.europarl.europa.eu/news/pt/headlines/society/20190410STO36615/estatisticas-sobre-sinistralidade-rodoviaria-na-ue-infografia
+[2] https://op.europa.eu/en/publication-detail/-/publication/d7ee4b58-4bc5-11ea-8aa5-01aa75ed71a1
