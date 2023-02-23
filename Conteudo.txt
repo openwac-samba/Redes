@@ -22,9 +22,9 @@ Projeto 5G-SafePlus
 
 ->+ Acerca do Projeto
 
-.Viabilidade do Projeto 5G-SafePlus:
+.Viabilidade Económica do Projeto 5G-SafePlus:
 	
-	Inferindo que metade dos acidentes em estradas rurais ocorrrem em zonas habitacionais temos que sensivelmente 73% dos acidentes acontenceram no raio de alcance da rede telefónica. A existẽncia de uma rede prévia representa um declínio de custos abismal. Não é de todo uma solução cara de implementar uma vez que   
+	Inferindo que metade dos acidentes em estradas rurais ocorrrem em zonas habitacionais temos que sensivelmente 73% dos acidentes acontenceram no raio de alcance da rede telefónica. A existẽncia de uma rede prévia representa um declínio de custos abismal. Não é de todo uma solução cara de implementar um vez que ter uma estrutura ancorada só na rede móvel já teria tido influência me ¾ dos acidentes mortais. 
 
 Referências:
    [1]https://www.europarl.europa.eu/news/pt/headlines/society/20190410STO36615/estatisticas-sobre-sinistralidade-rodoviaria-na-ue-infografia
